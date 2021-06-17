@@ -27,7 +27,7 @@ class BasicDFNHalfCell(BaseModel):
 
     References
     ----------
-    .. [2] M Doyle, TF Fuller and JS Nwman. “Modeling of Galvanostatic Charge and
+    .. [2] M Doyle, TF Fuller and JS Newman. “Modeling of Galvanostatic Charge and
         Discharge of the Lithium/Polymer/Insertion Cell”. Journal of The
         Electrochemical Society, 140(6):1526-1533, 1993
 
